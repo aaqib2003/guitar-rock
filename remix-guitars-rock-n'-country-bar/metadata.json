@@ -1,0 +1,8 @@
+{
+  "name": "Remix Guitars Rock N\u0027 Country Bar",
+  "description": "The premier rock and country live music venue, dance floor, patio, and nightlife destination in Joplin, Missouri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
